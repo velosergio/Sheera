@@ -1,0 +1,15 @@
+{
+  "name": "sheera",
+  "version": "0.0.1",
+  "description": "Primer cuento de la serie de historias de sergio veloza",
+  "main": "index.js",
+  "repository": "www.sergioveloza.com",
+  "author": "Sergio Veloza",
+  "license": "MIT",
+  "dependencies": {
+    "anicollection": "^1.0.0",
+    "bootstrap": "^4.2.1",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.6"
+  }
+}
